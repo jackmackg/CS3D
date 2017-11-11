@@ -1,0 +1,9 @@
+D:\projects\GitCS3D\CS3D\bin\Release\CS3D.exe.config
+D:\projects\GitCS3D\CS3D\bin\Release\CS3D.exe
+D:\projects\GitCS3D\CS3D\bin\Release\CS3D.pdb
+D:\projects\GitCS3D\CS3D\obj\Release\CS3D.FormMain.resources
+D:\projects\GitCS3D\CS3D\obj\Release\CS3D.Properties.Resources.resources
+D:\projects\GitCS3D\CS3D\obj\Release\CS3D.csproj.GenerateResource.Cache
+D:\projects\GitCS3D\CS3D\obj\Release\CS3D.csproj.CoreCompileInputs.cache
+D:\projects\GitCS3D\CS3D\obj\Release\CS3D.exe
+D:\projects\GitCS3D\CS3D\obj\Release\CS3D.pdb

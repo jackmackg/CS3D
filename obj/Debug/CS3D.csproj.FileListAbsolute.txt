@@ -1,0 +1,21 @@
+C:\Users\NotADell\Documents\Visual Studio 2017\Projects\GitCS3D\bin\Debug\CS3D.exe.config
+C:\Users\NotADell\Documents\Visual Studio 2017\Projects\GitCS3D\bin\Debug\CS3D.exe
+C:\Users\NotADell\Documents\Visual Studio 2017\Projects\GitCS3D\bin\Debug\CS3D.pdb
+C:\Users\NotADell\Documents\Visual Studio 2017\Projects\GitCS3D\obj\Debug\CS3D.csprojResolveAssemblyReference.cache
+C:\Users\NotADell\Documents\Visual Studio 2017\Projects\GitCS3D\obj\Debug\CS3D.FormMain.resources
+C:\Users\NotADell\Documents\Visual Studio 2017\Projects\GitCS3D\obj\Debug\CS3D.Properties.Resources.resources
+C:\Users\NotADell\Documents\Visual Studio 2017\Projects\GitCS3D\obj\Debug\CS3D.csproj.GenerateResource.Cache
+C:\Users\NotADell\Documents\Visual Studio 2017\Projects\GitCS3D\obj\Debug\CS3D.csproj.CoreCompileInputs.cache
+C:\Users\NotADell\Documents\Visual Studio 2017\Projects\GitCS3D\obj\Debug\CS3D.exe
+C:\Users\NotADell\Documents\Visual Studio 2017\Projects\GitCS3D\obj\Debug\CS3D.pdb
+D:\projects\GitCS3D\bin\Debug\CS3D.exe.config
+D:\projects\GitCS3D\bin\Debug\CS3D.exe
+D:\projects\GitCS3D\bin\Debug\CS3D.pdb
+D:\projects\GitCS3D\obj\Debug\CS3D.csprojResolveAssemblyReference.cache
+D:\projects\GitCS3D\obj\Debug\CS3D.FormMain.resources
+D:\projects\GitCS3D\obj\Debug\CS3D.Properties.Resources.resources
+D:\projects\GitCS3D\obj\Debug\CS3D.csproj.GenerateResource.Cache
+D:\projects\GitCS3D\obj\Debug\CS3D.csproj.CoreCompileInputs.cache
+D:\projects\GitCS3D\obj\Debug\CS3D.exe
+D:\projects\GitCS3D\obj\Debug\CS3D.pdb
+D:\projects\GitCS3D\bin\Debug\Data\bin\testTeapot.obj
